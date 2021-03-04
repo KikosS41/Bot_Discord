@@ -1,0 +1,22 @@
+{
+  "name": "bot_discord",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KikosS41/Bot_Discord.git"
+  },
+  "author": "Killian LEGENDRE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KikosS41/Bot_Discord/issues"
+  },
+  "homepage": "https://github.com/KikosS41/Bot_Discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
